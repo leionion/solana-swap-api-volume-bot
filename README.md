@@ -21,7 +21,7 @@ A high-performance, multi-threaded bot for generating volume on Solana DEXes usi
 
 - Node.js (v14 or later recommended)
 - npm (comes with Node.js)
-- One or multiple Solana wallets with SOL
+- One or multiple Solana wallets with SOL 
 
 ## Installation
 
